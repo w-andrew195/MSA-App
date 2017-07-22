@@ -35,3 +35,9 @@ E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\System.Net.Http.Primitive
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\obj\Debug\SnapShop.csproj.App.config
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Plugin.Connectivity.Abstractions.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Plugin.Connectivity.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Plugin.Connectivity.pdb
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Plugin.Connectivity.xml
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Plugin.Connectivity.Abstractions.xml

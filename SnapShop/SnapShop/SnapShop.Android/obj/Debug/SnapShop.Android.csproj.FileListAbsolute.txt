@@ -86,3 +86,11 @@ E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Microsoft.Windows
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\System.Net.Http.Extensions.xml
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\System.Net.Http.Primitives.xml
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Plugin.Connectivity.Abstractions.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Plugin.Connectivity.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Plugin.Connectivity.pdb
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Plugin.Connectivity.xml
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Plugin.Connectivity.Abstractions.xml
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Plugin.Connectivity.dll.mdb
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb

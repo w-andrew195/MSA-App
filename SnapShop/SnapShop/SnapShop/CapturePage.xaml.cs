@@ -11,6 +11,7 @@ using Plugin.Media.Abstractions;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using SnapShop.Models;
+using Plugin.Connectivity;
 namespace SnapShop
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
@@ -20,10 +21,26 @@ namespace SnapShop
         {
             InitializeComponent();
             image.Source = ImageSource.FromFile("logo.png");
+            
+            
+        }
+        private bool CheckNetwork() {
+
+            if (CrossConnectivity.Current.IsConnected)
+            {
+                return true;  
+            }
+            else
+            {
+                DisplayAlert("Warning", "Network connection required.", "Ok");
+                return false;
+            }
         }
         string placeName = "";
         private async void CameraButton(object sender, EventArgs e)
         {
+            bool Status = CheckNetwork();
+            if (!Status) { return; }
             await CrossMedia.Current.Initialize();
 
             if (!CrossMedia.Current.IsCameraAvailable || !CrossMedia.Current.IsTakePhotoSupported)

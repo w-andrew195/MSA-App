@@ -3,6 +3,8 @@ E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Fo
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Microsoft.WindowsAzure.Mobile.dll
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Microsoft.WindowsAzure.Mobile.Ext.dll
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Newtonsoft.Json.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.Connectivity.dll
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.CurrentActivity.dll
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.Media.dll
