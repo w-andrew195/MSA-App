@@ -35,7 +35,7 @@ namespace SnapShop
             {
                 PhotoSize = PhotoSize.Small,
                 Directory = "Sample",
-                Name = $"{DateTime.UtcNow}.jpg"
+                Name = $"SnapShop{DateTime.UtcNow}.jpg"
             });
             if (file == null)
                 return;
@@ -59,7 +59,7 @@ namespace SnapShop
 
             };
 
-            await Azure.AzureManagerInstance.PostHotDogInformation(model);
+            await Azure.AzureManagerInstance.PostInformation(model);
         }
 
         static byte[] GetImageAsByteArray(MediaFile file)

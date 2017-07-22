@@ -16,5 +16,18 @@ namespace SnapShop
         {
             InitializeComponent();
         }
+        async void Handle_ClickedAsync(object sender, System.EventArgs e)
+        {
+            List<SnapShopNZInformation> SnapShopInformation = await Azure.AzureManagerInstance.GetInformation();
+
+            SnapShopList.ItemsSource = SnapShopInformation;
+        }
+        async Task RetrieveInformation()
+        {
+            List<SnapShopNZInformation> Information = await Azure.AzureManagerInstance.GetInformation();
+
+            SnapShopList.ItemsSource = Information;
+        }
+
     }
 }

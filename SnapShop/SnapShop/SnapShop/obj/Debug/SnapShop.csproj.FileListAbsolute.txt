@@ -33,3 +33,5 @@ E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\System.Net.Http.Extension
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\System.Net.Http.Formatting.xml
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\System.Net.Http.Primitives.xml
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\obj\Debug\SnapShop.csproj.App.config
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Microsoft.WindowsAzure.Mobile.xml

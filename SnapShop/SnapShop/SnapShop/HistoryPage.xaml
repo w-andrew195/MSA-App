@@ -2,9 +2,29 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SnapShop.HistoryPage" Title="Previous places">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness" iOS="0, 20, 0, 0" />
+    </ContentPage.Padding>
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="History" />
+        <StackLayout Margin="20">
+            <Button Text="Refresh Information" Clicked="Handle_ClickedAsync"  BackgroundColor="Orange" TextColor="White"/>
+            <StackLayout Orientation="Horizontal">
+                <Label Margin="20,0,0,0" VerticalTextAlignment="Center" FontAttributes="Bold">Date</Label>
+                <Label VerticalTextAlignment="Center" Margin="97,0,0,0" FontAttributes="Bold">Place</Label>
+            </StackLayout>
+
+            <ListView x:Name="SnapShopList" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding Date}" Margin="20,0,0,0" VerticalTextAlignment="Center" />
+                                <Label Text="{Binding Place}" VerticalTextAlignment="Center" Margin="22,0,0,0" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -78,3 +78,11 @@ E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Pl
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
 E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\System.Net.Http.Extensions.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\System.Net.Http.Primitives.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\System.Net.Http.Extensions.xml
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop.Android\bin\Debug\System.Net.Http.Primitives.xml

@@ -38,12 +38,12 @@ namespace SnapShop
             }
         }
 
-        public async Task<List<SnapShopNZInformation>> GetHotDogInformation()
+        public async Task<List<SnapShopNZInformation>> GetInformation()
         {
             return await this.DataTable.ToListAsync();
         }
 
-        public async Task PostHotDogInformation(SnapShopNZInformation SnapShopModel)
+        public async Task PostInformation(SnapShopNZInformation SnapShopModel)
         {
             await this.DataTable.InsertAsync(SnapShopModel);
         }
