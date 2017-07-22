@@ -15,6 +15,7 @@ namespace SnapShop
         public HistoryPage()
         {
             InitializeComponent();
+            RetrieveInformation();
         }
         async void Handle_ClickedAsync(object sender, System.EventArgs e)
         {
