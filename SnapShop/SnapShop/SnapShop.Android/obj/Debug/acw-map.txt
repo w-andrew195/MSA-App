@@ -2,6 +2,14 @@ SnapShop.Droid.MainActivity, SnapShop.Android;md5f3bf7f1f22fb677bfd95dca2a71d538
 SnapShop.Droid.MainActivity, SnapShop.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f3bf7f1f22fb677bfd95dca2a71d538e.MainActivity
 SnapShop.Droid.MainActivity;md5f3bf7f1f22fb677bfd95dca2a71d538e.MainActivity
 snapshop.droid.MainActivity;md5f3bf7f1f22fb677bfd95dca2a71d538e.MainActivity
+SnapShop.Droid.MainApplication, SnapShop.Android;md5f3bf7f1f22fb677bfd95dca2a71d538e.MainApplication
+SnapShop.Droid.MainApplication, SnapShop.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f3bf7f1f22fb677bfd95dca2a71d538e.MainApplication
+SnapShop.Droid.MainApplication;md5f3bf7f1f22fb677bfd95dca2a71d538e.MainApplication
+snapshop.droid.MainApplication;md5f3bf7f1f22fb677bfd95dca2a71d538e.MainApplication
+Plugin.Media.MediaPickerActivity, Plugin.Media;md5a3e164e78ade0c22cefea770ddd0bc49.MediaPickerActivity
+Plugin.Media.MediaPickerActivity, Plugin.Media, Version=2.6.2.0, Culture=neutral, PublicKeyToken=null;md5a3e164e78ade0c22cefea770ddd0bc49.MediaPickerActivity
+Plugin.Media.MediaPickerActivity;md5a3e164e78ade0c22cefea770ddd0bc49.MediaPickerActivity
+plugin.media.MediaPickerActivity;md5a3e164e78ade0c22cefea770ddd0bc49.MediaPickerActivity
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar+SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
