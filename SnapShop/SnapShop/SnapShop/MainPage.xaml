@@ -1,11 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:SnapShop"
-             x:Class="SnapShop.MainPage">
+             x:Class="SnapShop.MainPage" BarBackgroundColor="Orange">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <NavigationPage Title="Capture" BarBackgroundColor="Orange">
+        <x:Arguments>
+            <local:CapturePage/>
+        </x:Arguments>
+    </NavigationPage>
 
-</ContentPage>
+    <NavigationPage Title="History" BarBackgroundColor="Orange">
+        <x:Arguments>
+            <local:HistoryPage/>
+        </x:Arguments>
+    </NavigationPage>
+    
+    
+
+</TabbedPage>

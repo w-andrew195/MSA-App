@@ -1,0 +1,17 @@
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\SnapShop.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\SnapShop.pdb
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Xamarin.Forms.Core.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Xamarin.Forms.Core.xml
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\obj\Debug\SnapShop.csprojResolveAssemblyReference.cache
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\obj\Debug\SnapShop.MainPage.xaml.g.cs
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\obj\Debug\SnapShop.App.xaml.g.cs
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\obj\Debug\SnapShop.CapturePage.xaml.g.cs
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\obj\Debug\SnapShop.HistoryPage.xaml.g.cs
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\obj\Debug\SnapShop.dll
+E:\Andrew\MSA-App\SnapShop\SnapShop\SnapShop\obj\Debug\SnapShop.pdb
