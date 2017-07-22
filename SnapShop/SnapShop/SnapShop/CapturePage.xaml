@@ -9,6 +9,7 @@
                 <Image x:Name="image" Aspect="AspectFit" TranslationY="25" />
                 <Label x:Name="TagLabel" FontAttributes="Bold" Margin="0,50,0,0"></Label>
                 <Label x:Name="DataOutLabel" Margin="0,0,0,20" TextColor="Blue" ></Label>
+                <Button x:Name="Stores" Clicked="Stores_Clicked" IsVisible="False" Text="Store Locator" Margin="0,0,0,20"/>
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

@@ -12,6 +12,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using SnapShop.Models;
 using Plugin.Connectivity;
+
 namespace SnapShop
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
@@ -37,6 +38,7 @@ namespace SnapShop
             }
         }
         string placeName = "";
+        string store = "";
         private async void CameraButton(object sender, EventArgs e)
         {
             bool Status = CheckNetwork();
@@ -64,6 +66,7 @@ namespace SnapShop
             TagLabel.Text = placeName;
             await MakePredictionRequest(file);
             await postLocationAsync();
+            
         }
         async Task postLocationAsync()
         {
@@ -117,8 +120,8 @@ namespace SnapShop
                     DataEntry DataOut = new DataEntry();
                     string website = DataOut.checker(placeName);
                     DataOutLabel.Text = website;
-
-
+                    Stores.IsVisible = true;
+                    store = website;
 
                     var tapGestureRecognizer = new TapGestureRecognizer();
                     tapGestureRecognizer.Tapped += (s, e) => {
@@ -126,12 +129,18 @@ namespace SnapShop
                         Device.OpenUri(new System.Uri(website));
                     };
                     DataOutLabel.GestureRecognizers.Add(tapGestureRecognizer);
-
+                   
                 }
 
                 file.Dispose();
+                
             }
         }
 
+        private void Stores_Clicked(object sender, EventArgs e)
+        {
+            Device.OpenUri(new System.Uri(store+"stores"));
+
+        }
     }
 }
